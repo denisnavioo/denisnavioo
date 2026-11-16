@@ -56,15 +56,13 @@
   </tr>
 </table>
 
-<hr>
-<br>
 ## Proyectos Actuales 🚀
-<br>
+
 <table>
   <tr>
     <td width="480">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="42" align="center" alt="Snorlax](https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/sprite/0143/Sleep-Anim.png)" />
-      &nbsp;<a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a><br><br>
+      <img src="alas.png" width="35" align="center" alt="Alas de la Libertad" />&nbsp;
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a><br><br>
       <sub>
         Aplicación web colaborativa para la gestión integral de una empresa de alquiler de vehículos. Desarrollada con arquitectura backend en <b>Java</b> y vistas en <b>HTML</b> y <b>CSS</b>, permite administrar la flota, reservas, clientes y disponibilidad de vehículos mediante un flujo de trabajo en equipo con Git.
       </sub><br><br>
