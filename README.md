@@ -57,12 +57,16 @@
 
 
 ## Proyectos Actuales 🚀
+
 <table>
   <tr>
     <td width="480">
       <img src="alas.png" width="35" align="center" alt="Alas de la Libertad" />&nbsp;
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a>
       &nbsp;<img src="https://img.shields.io/badge/Proyecto_de_Clase-6f42c1?style=flat-square" align="center" /><br><br>
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
+        <img src="web.webp" width="100%" alt="Vista previa de Projecte 1" />
+      </a><br><br>
       <sub>
         Aplicación web colaborativa desarrollada en equipo en <b>2º DAM</b> para la gestión integral de una empresa de alquiler de vehículos. Con arquitectura backend en <b>Java</b> y vistas en <b>HTML</b> y <b>CSS</b>, permite administrar la flota, reservas, clientes y disponibilidad de vehículos mediante un flujo de trabajo con Git.
       </sub><br><br>
@@ -76,7 +80,7 @@
 
 <br>
 
-## En Proceso 🛠️
+## En Proceso... 🛠️
 
 <table>
   <tr>
