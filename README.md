@@ -101,6 +101,7 @@
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" align="center" alt="Mega Gengar" />&nbsp;
       <b>Web Duo — Development & Self-Hosted Infrastructure</b>
       &nbsp;<img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" align="center" /><br><br>
+      <img src="duo.webp" width="100%" alt="Web Duo preview" /><br><br>
       <sub>
         A personal web project actively developed from scratch, including the code, architecture, and deployment. I manage the hosting, DNS, security, and production deployment independently through <b>Cloudflare</b>.
       </sub><br><br>
