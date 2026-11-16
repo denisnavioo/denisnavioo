@@ -2,8 +2,7 @@
   <h1>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="55" align="center" alt="Mudkip" />
     Bienvenido a mi perfil
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" align="center" alt="Mano saludando" />
-  </h1>
+<img src="./hola.gif" width="70" align="center" alt="Hola" />  </h1>
 
   <h3>Mi nombre es Denis Navío</h3>
 
