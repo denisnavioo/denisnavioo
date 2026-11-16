@@ -8,8 +8,9 @@
   <h3>Mi nombre es Denis Navío</h3>
 
   <p>
-    Soy estudiante de segundo año de <b>DAM</b> (Desarrollo de Aplicaciones Multiplataforma) y actualmente estoy realizando mis prácticas en 
-    <a href="https://timematters.ai" target="_blank"><b>timematters.ai</b></a>.
+    Estudiante de 2º de <b>DAM</b> 💻<br />
+    Apasionado por el desarrollo <b>Backend</b> ⚙️<br />
+    Actualmente de prácticas en <a href="https://timematters.ai" target="_blank"><b>timematters.ai</b></a> 🚀
   </p>
 </div>
 <!--
