@@ -18,7 +18,7 @@
 
 <p>
   I enjoy understanding how applications work behind the scenes and turning ideas into useful solutions.
-  I like learning new technologies and working on projects that help me grow as a developer.
+  My current goal is to learn about different areas of backend development and build a strong foundation through hands-on programming, so I can work in this field in the future and become a good programmer.
 </p>
 
 ## Contact
