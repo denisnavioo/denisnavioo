@@ -28,7 +28,7 @@
   <a href="https://github.com/denisnavioo">🐙 GitHub: denisnavioo</a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Languages &amp; Skills</b>
 <br>
 <table>
   <tr>
@@ -53,18 +53,6 @@
     <td>
       <b>CSS</b><br>
       <img src="https://placehold.co/23x8/563d7c/563d7c.png" height="8" /><img src="https://placehold.co/227x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>9.1%</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>PowerShell</b><br>
-      <img src="https://placehold.co/4x8/012456/012456.png" height="8" /><img src="https://placehold.co/246x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>1.7%</code>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Shell</b><br>
-      <img src="https://placehold.co/2x8/89e051/89e051.png" height="8" /><img src="https://placehold.co/248x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>0.6%</code>
     </td>
   </tr>
 </table>
@@ -92,8 +80,8 @@
   <tr>
     <td width="480">
       <img src="alas.png" width="35" alt="Wings of Freedom" />&nbsp;
-      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a><br>
-      <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" /><br><br>
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a><br><br>
+      <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" /><br><br><br>
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
         <img src="web.webp" width="100%" alt="Project 1 preview" />
       </a><br><br>
@@ -116,11 +104,11 @@
   <tr>
     <td width="480">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" alt="Mega Gengar" />&nbsp;
-      <b>Web Duo — Development &amp; Self-Hosted</b>
-      &nbsp;<img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" /><br><br>
+      <b>Web Duo — Development &amp; Self-Hosted</b><br><br>
+      <img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" /><br><br><br>
       <img src="duo.webp" width="100%" alt="Web Duo preview" /><br><br>
       <sub>
-        A personal web project actively developed from scratch, including the code, architecture, and deployment. I manage the hosting, DNS, security, and production deployment independently through <b>Cloudflare</b>.
+        A private shared planner that helps two people organize their calendars, weekly schedules, shared plans, savings, and expenses in one place. It also includes daily notes and updates, while keeping personal financial information visible only to its owner.
       </sub><br><br>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Self--Hosted-181717?style=flat-square&logo=linux&logoColor=white" />
