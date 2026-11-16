@@ -75,8 +75,8 @@
   <tr>
     <td width="480">
       <img src="alas.png" width="35" align="center" alt="Wings of Freedom" />&nbsp;
-      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a>
-      &nbsp;<img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" align="center" /><br><br>
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a><br>
+      <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" align="center" /><br><br>
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
         <img src="web.webp" width="100%" alt="Project 1 preview" />
       </a><br><br>
@@ -99,7 +99,7 @@
   <tr>
     <td width="480">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" align="center" alt="Mega Gengar" />&nbsp;
-      <b>Web Duo — Development & Self-Hosted Infrastructure</b>
+      <b>Web Duo — Development & Self-Hosted</b>
       &nbsp;<img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" align="center" /><br><br>
       <img src="duo.webp" width="100%" alt="Web Duo preview" /><br><br>
       <sub>
