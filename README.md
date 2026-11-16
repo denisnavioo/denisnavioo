@@ -81,7 +81,7 @@
 <table>
   <tr>
     <td width="480">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="40" align="center" alt="Mudkip" />&nbsp;
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" align="center" alt="Mega Gengar" />&nbsp;
       <b>Web Duo — Desarrollo & Infraestructura Propia</b>
       &nbsp;<img src="https://img.shields.io/badge/Proyecto_Personal-0969da?style=flat-square" align="center" /><br><br>
       <sub>
