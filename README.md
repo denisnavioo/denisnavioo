@@ -24,7 +24,7 @@
 ## Contact
 
 <p>
-  <a href="mailto:maxnaviodns@gmail.com">📧 maxnaviodns@gmail.com</a><br />
+  <a href="mailto:maxnaviodns@gmail.com">📧 Denisnavio12@gmail.com</a><br />
   <a href="https://github.com/denisnavioo">🐙 GitHub: denisnavioo</a><br />
   <a href="https://www.linkedin.com/in/denis-navio-26a50a306/">💼 LinkedIn: Denis Navío</a>
 </p>
