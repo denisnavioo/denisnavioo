@@ -21,43 +21,40 @@
   <tr>
     <td>
       <b>Java</b><br>
-      <img src="https://placehold.co/92x8/b07219/b07219.png" height="8" /><img src="https://placehold.co/158x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>36.9%</code>
+      <img src="https://placehold.co/103x8/b07219/b07219.png" height="8" /><img src="https://placehold.co/147x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>41.2%</code>
     </td>
   </tr>
   <tr>
     <td>
       <b>HTML</b><br>
-      <img src="https://placehold.co/56x8/e34c26/e34c26.png" height="8" /><img src="https://placehold.co/194x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>22.3%</code>
+      <img src="https://placehold.co/92x8/e34c26/e34c26.png" height="8" /><img src="https://placehold.co/158x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>36.6%</code>
     </td>
   </tr>
   <tr>
     <td>
       <b>JavaScript</b><br>
-      <img src="https://placehold.co/54x8/f1e05a/f1e05a.png" height="8" /><img src="https://placehold.co/196x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>21.5%</code>
+      <img src="https://placehold.co/27x8/f1e05a/f1e05a.png" height="8" /><img src="https://placehold.co/223x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>10.8%</code>
     </td>
   </tr>
   <tr>
     <td>
       <b>CSS</b><br>
-      <img src="https://placehold.co/36x8/563d7c/563d7c.png" height="8" /><img src="https://placehold.co/214x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>14.5%</code>
+      <img src="https://placehold.co/23x8/563d7c/563d7c.png" height="8" /><img src="https://placehold.co/227x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>9.1%</code>
     </td>
   </tr>
   <tr>
     <td>
       <b>PowerShell</b><br>
-      <img src="https://placehold.co/9x8/012456/012456.png" height="8" /><img src="https://placehold.co/241x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>3.5%</code>
+      <img src="https://placehold.co/4x8/012456/012456.png" height="8" /><img src="https://placehold.co/246x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>1.7%</code>
     </td>
   </tr>
   <tr>
     <td>
       <b>Shell</b><br>
-      <img src="https://placehold.co/3x8/89e051/89e051.png" height="8" /><img src="https://placehold.co/247x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>1.3%</code>
+      <img src="https://placehold.co/2x8/89e051/89e051.png" height="8" /><img src="https://placehold.co/248x8/e5e7eb/e5e7eb.png" height="8" /> &nbsp;<code>0.6%</code>
     </td>
   </tr>
 </table>
-
-<hr>
-<br>
 
 <hr>
 <br>
