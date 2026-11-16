@@ -55,20 +55,41 @@
   </tr>
 </table>
 
-## Proyectos Actuales 🚀
 
+## Proyectos Actuales 🚀
 <table>
   <tr>
     <td width="480">
       <img src="alas.png" width="35" align="center" alt="Alas de la Libertad" />&nbsp;
-      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a><br><br>
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a>
+      &nbsp;<img src="https://img.shields.io/badge/Proyecto_de_Clase-6f42c1?style=flat-square" align="center" /><br><br>
       <sub>
-        Aplicación web colaborativa para la gestión integral de una empresa de alquiler de vehículos. Desarrollada con arquitectura backend en <b>Java</b> y vistas en <b>HTML</b> y <b>CSS</b>, permite administrar la flota, reservas, clientes y disponibilidad de vehículos mediante un flujo de trabajo en equipo con Git.
+        Aplicación web colaborativa desarrollada en equipo en <b>2º DAM</b> para la gestión integral de una empresa de alquiler de vehículos. Con arquitectura backend en <b>Java</b> y vistas en <b>HTML</b> y <b>CSS</b>, permite administrar la flota, reservas, clientes y disponibilidad de vehículos mediante un flujo de trabajo con Git.
       </sub><br><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## En Proceso 🛠️
+
+<table>
+  <tr>
+    <td width="480">
+      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="40" align="center" alt="Mudkip" />&nbsp;
+      <b>Web Duo — Desarrollo & Infraestructura Propia</b>
+      &nbsp;<img src="https://img.shields.io/badge/Proyecto_Personal-0969da?style=flat-square" align="center" /><br><br>
+      <sub>
+        Proyecto web personal en desarrollo activo creado íntegramente desde cero por mí, tanto a nivel de código como de arquitectura y despliegue. Gestionando el alojamiento, DNS, seguridad y puesta en producción de forma 100% autónoma a través de <b>Cloudflare</b>.
+      </sub><br><br>
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Self--Hosted-181717?style=flat-square&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/En_Desarrollo-2EA44F?style=flat-square" />
     </td>
   </tr>
 </table>
