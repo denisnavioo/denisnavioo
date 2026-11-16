@@ -13,6 +13,19 @@
   </p>
 </div>
 
+## Sobre mí
+
+<p>
+  Me gusta entender cómo funcionan las aplicaciones por dentro y convertir ideas en soluciones útiles.
+  Disfruto aprendiendo nuevas tecnologías y trabajando en proyectos que me ayudan a crecer como desarrollador.
+</p>
+
+## Contacto
+
+<p>
+  <a href="mailto:maxnaviodns@gmail.com">📧 maxnaviodns@gmail.com</a><br />
+  <a href="https://github.com/denisnavioo">🐙 GitHub: denisnavioo</a>
+</p>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
