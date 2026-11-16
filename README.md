@@ -1,13 +1,17 @@
-## Hi there 👋
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="70" alt="Mudkip" />
+<div align="center">
+  <h1>
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="55" align="center" alt="Mudkip" />
+    Bienvenido a mi perfil
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" align="center" alt="Mano saludando" />
+  </h1>
 
-<img src="./assets/mudkip-sleep.gif" width="60" alt="Mudkip durmiendo" />
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
-</p>
-<br />
+  <h3>Mi nombre es Denis Navío</h3>
+
+  <p>
+    Soy estudiante de segundo año de <b>DAM</b> (Desarrollo de Aplicaciones Multiplataforma) y actualmente estoy realizando mis prácticas en 
+    <a href="https://timematters.ai" target="_blank"><b>timematters.ai</b></a>.
+  </p>
+</div>
 <!--
 **denisnavioo/denisnavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
