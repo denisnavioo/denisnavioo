@@ -1,33 +1,34 @@
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="55" align="center" alt="Mudkip" />
-    Bienvenido a mi perfil
-<img src="./hola.gif" width="70" align="center" alt="Hola" />  </h1>
+    Welcome to my profile
+    <img src="./hola.gif" width="70" align="center" alt="Hello" />
+  </h1>
 
-  <h3>Mi nombre es Denis Navío</h3>
+  <h3>My name is Denis Navío</h3>
 
   <p>
-    Estudiante de 2º de <b>DAM</b> 💻<br />
-    Apasionado por el desarrollo <b>Backend</b> ⚙️<br />
-    Actualmente de prácticas en <a href="https://timematters.ai" target="_blank"><b>timematters.ai</b></a> 🚀
+    Second-year <b>Multiplatform Application Development (DAM)</b> student 💻<br />
+    Passionate about <b>backend development</b> ⚙️<br />
+    Currently doing an internship at <a href="https://timematters.ai" target="_blank"><b>Time Matters</b></a> 🚀
   </p>
 </div>
 
-## Sobre mí
+## About me
 
 <p>
-  Me gusta entender cómo funcionan las aplicaciones por dentro y convertir ideas en soluciones útiles.
-  Disfruto aprendiendo nuevas tecnologías y trabajando en proyectos que me ayudan a crecer como desarrollador.
+  I enjoy understanding how applications work behind the scenes and turning ideas into useful solutions.
+  I like learning new technologies and working on projects that help me grow as a developer.
 </p>
 
-## Contacto
+## Contact
 
 <p>
   <a href="mailto:maxnaviodns@gmail.com">📧 maxnaviodns@gmail.com</a><br />
   <a href="https://github.com/denisnavioo">🐙 GitHub: denisnavioo</a>
 </p>
 
-## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 <br>
 <table>
   <tr>
@@ -68,20 +69,19 @@
   </tr>
 </table>
 
-
-## Proyectos Actuales 🚀
+## Current Projects 🚀
 
 <table>
   <tr>
     <td width="480">
-      <img src="alas.png" width="35" align="center" alt="Alas de la Libertad" />&nbsp;
-      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Projecte 1 — Plataforma de Alquiler de Coches</b></a>
-      &nbsp;<img src="https://img.shields.io/badge/Proyecto_de_Clase-6f42c1?style=flat-square" align="center" /><br><br>
+      <img src="alas.png" width="35" align="center" alt="Wings of Freedom" />&nbsp;
+      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a>
+      &nbsp;<img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" align="center" /><br><br>
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
-        <img src="web.webp" width="100%" alt="Vista previa de Projecte 1" />
+        <img src="web.webp" width="100%" alt="Project 1 preview" />
       </a><br><br>
       <sub>
-        Aplicación web colaborativa desarrollada en equipo en <b>2º DAM</b> para la gestión integral de una empresa de alquiler de vehículos. Con arquitectura backend en <b>Java</b> y vistas en <b>HTML</b> y <b>CSS</b>, permite administrar la flota, reservas, clientes y disponibilidad de vehículos mediante un flujo de trabajo con Git.
+        A collaborative web application developed as a team project in the second year of DAM to manage a car rental business. Built with a <b>Java</b> backend and <b>HTML</b> and <b>CSS</b> views, it lets users manage the fleet, bookings, customers, and vehicle availability using a Git-based workflow.
       </sub><br><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -93,26 +93,40 @@
 
 <br>
 
-## En Proceso... 🛠️
+## In Progress... 🛠️
 
 <table>
   <tr>
     <td width="480">
       <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" align="center" alt="Mega Gengar" />&nbsp;
-      <b>Web Duo — Desarrollo & Infraestructura Propia</b>
-      &nbsp;<img src="https://img.shields.io/badge/Proyecto_Personal-0969da?style=flat-square" align="center" /><br><br>
+      <b>Web Duo — Development & Self-Hosted Infrastructure</b>
+      &nbsp;<img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" align="center" /><br><br>
       <sub>
-        Proyecto web personal en desarrollo activo creado íntegramente desde cero por mí, tanto a nivel de código como de arquitectura y despliegue. Gestionando el alojamiento, DNS, seguridad y puesta en producción de forma 100% autónoma a través de <b>Cloudflare</b>.
+        A personal web project actively developed from scratch, including the code, architecture, and deployment. I manage the hosting, DNS, security, and production deployment independently through <b>Cloudflare</b>.
       </sub><br><br>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Self--Hosted-181717?style=flat-square&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/En_Desarrollo-2EA44F?style=flat-square" />
+      <img src="https://img.shields.io/badge/In_Development-2EA44F?style=flat-square" />
     </td>
   </tr>
 </table>
 
 <hr>
 <br>
+<!--
+**denisnavioo/denisnavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <!--
 **denisnavioo/denisnavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
