@@ -1,5 +1,7 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="70" alt="Mudkip" />
+
+<img src="./assets/mudkip-sleep.gif" width="60" alt="Mudkip durmiendo" />
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
