@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="55" align="center" alt="Mudkip" />
-    Welcome to my profile
+    Welcome to my portfolio
     <img src="./hola.gif" width="70" align="center" alt="Hello" />
   </h1>
 
