@@ -107,7 +107,8 @@
       </sub><br><br>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       <img src="https://img.shields.io/badge/Self--Hosted-181717?style=flat-square&logo=linux&logoColor=white" />
-      <img src="https://img.shields.io/badge/In_Development-2EA44F?style=flat-square" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     </td>
   </tr>
 </table>
