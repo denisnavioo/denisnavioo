@@ -24,6 +24,12 @@
   My current goal is to learn about different areas of backend development and build a strong foundation through hands-on programming, so I can work in this field in the future and become a good programmer.
 </p>
 
+<p>
+  <a href="./CV_Navio_Serrano_Denis_actualitzat.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/OPEN_MY_CV-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open my CV" />
+  </a>
+</p>
+
 ## Contact
 
 <p>
