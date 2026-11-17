@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Backend Developer" />
+</p>
 <div align="center">
   <h1>
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/258.gif" width="55" align="center" alt="Mudkip" />
@@ -69,7 +72,6 @@
 <table>
   <tr>
     <td width="480">
-      <img src="alas.png" width="35" alt="Wings of Freedom" />&nbsp;
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank"><b>Project 1 — Car Rental Platform</b></a><br><br>
       <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" /><br><br><br>
       <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
@@ -93,7 +95,6 @@
 <table>
   <tr>
     <td width="480">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/10038.gif" width="52" alt="Mega Gengar" />&nbsp;
       <b>Web Duo — Development &amp; Self-Hosted</b><br><br>
       <img src="https://img.shields.io/badge/Personal_Project-0969da?style=flat-square" /><br><br><br>
       <img src="duo.webp" width="100%" alt="Web Duo preview" /><br><br>
@@ -110,6 +111,7 @@
 
 <hr>
 <br>
+
 <!--
 **denisnavioo/denisnavioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
