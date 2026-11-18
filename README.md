@@ -115,7 +115,8 @@
   <b>Project 1 — Car Rental Platform</b>
 </a><br><br>  
       <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" /><br><br><br>
-      <a href="https://gitlab.com/grup47650143/projecte1" target="_blank">
+      <a href="https://gitlab.com/grup47650143/Projecte-Nothingan-Pri
+" target="_blank">
         <img src="web.webp" width="100%" alt="Project 1 preview" />
       </a><br><br>
       <sub>
