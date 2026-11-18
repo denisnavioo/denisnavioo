@@ -111,7 +111,7 @@
 <table>
   <tr>
     <td width="480">
-<a href="https://github.com/denisnavioo/projecte1" target="_blank">
+<a href="https://github.com/denisnavioo/Projecte-Nothingan-Pri" target="_blank">
   <b>Project 1 — Car Rental Platform</b>
 </a><br><br>  
       <img src="https://img.shields.io/badge/Class_Project-6f42c1?style=flat-square" /><br><br><br>
