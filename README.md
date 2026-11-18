@@ -17,6 +17,11 @@
   </p>
 </div>
 
+</div>
+
+<br>
+
+
 ## About me
 
 <p>
@@ -47,10 +52,16 @@
   </a>
 </p>
 
+</div>
+
+<br>
+
 <h2>
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/599.gif" width="40" align="center" alt="Klink" />
   Tech Stack
 </h2>
+
+
 
 ### Languages
 <p>
@@ -91,6 +102,10 @@
   <img src="https://img.shields.io/badge/Self_Hosted-181717?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
+</div>
+
+<br>
+
 <h2>Current Projects 🚀</h2>
 
 <table>
@@ -107,7 +122,7 @@
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
